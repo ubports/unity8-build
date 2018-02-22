@@ -1,0 +1,108 @@
+[submodule "ubuntu-ui-toolkit"]
+	path = ubuntu-ui-toolkit
+	url = git@github.com:ubports/ubuntu-ui-toolkit.git
+[submodule "ubuntu-download-manager"]
+	path = ubuntu-download-manager
+	url = git@github.com:ubports/ubuntu-download-manager.git
+[submodule "content-hub"]
+	path = content-hub
+	url = git@github.com:ubports/content-hub.git
+[submodule "qtmir"]
+	path = qtmir
+	url = git@github.com:ubports/qtmir.git
+[submodule "ubuntu-app-launch"]
+	path = ubuntu-app-launch
+	url = git@github.com:ubports/ubuntu-app-launch.git
+[submodule "libertine"]
+	path = libertine
+	url = git@github.com:ubports/libertine.git
+[submodule "url-dispatcher"]
+	path = url-dispatcher
+	url = git@github.com:ubports/url-dispatcher.git
+[submodule "qtubuntu"]
+	path = qtubuntu
+	url = git@github.com:ubports/qtubuntu.git
+[submodule "platform-api"]
+	path = platform-api
+	url = git@github.com:ubports/platform-api.git
+[submodule "location-service"]
+	path = location-service
+	url = git@github.com:ubports/location-service.git
+[submodule "trust-store"]
+	path = trust-store
+	url = git@github.com:ubports/trust-store.git
+[submodule "unity8"]
+	path = unity8
+	url = git@github.com:ubports/unity8.git
+[submodule "libusermetrics"]
+	path = libusermetrics
+	url = git@github.com:unity8-team/libusermetrics.git
+[submodule "keyboard-component"]
+	path = keyboard-component
+	url = git@github.com:ubports/keyboard-component.git
+[submodule "system-settings"]
+	path = system-settings
+	url = git@github.com:ubports/system-settings.git
+[submodule "history-service"]
+	path = history-service
+	url = git@github.com:ubports/history-service.git
+[submodule "settings-components"]
+	path = settings-components
+	url = git@github.com:ubports/settings-components.git
+[submodule "thumbnailer"]
+	path = thumbnailer
+	url = git@github.com:ubports/thumbnailer.git
+[submodule "biometryd"]
+	path = biometryd
+	url = git@github.com:ubports/biometryd.git
+[submodule "gsettings-qt"]
+	path = gsettings-qt
+	url = git@github.com:ubports/gsettings-qt.git
+[submodule "telephony-service"]
+	path = telephony-service
+	url = git@github.com:ubports/telephony-service.git
+[submodule "ubuntu-ui-extras"]
+	path = ubuntu-ui-extras
+	url = git@github.com:ubports/ubuntu-ui-extras.git
+[submodule "unity-scopes-shell"]
+	path = unity-scopes-shell
+	url = git@github.com:ubports/unity-scopes-shell.git
+[submodule "unity8-desktop-session"]
+	path = unity8-desktop-session
+	url = git@github.com:ubports/unity8-desktop-session.git
+[submodule "unity-system-compositor"]
+	path = unity-system-compositor
+	url = git@github.com:ubports/unity-system-compositor.git
+[submodule "terminal-app"]
+	path = terminal-app
+	url = git@github.com:ubports/terminal-app.git
+[submodule "address-book-service"]
+	path = address-book-service
+	url = git@github.com:ubports/address-book-service.git
+[submodule "indicator-bluetooth"]
+	path = indicator-bluetooth
+	url = git@github.com:ubports/indicator-bluetooth.git
+[submodule "indicator-datetime"]
+	path = indicator-datetime
+	url = git@github.com:ubports/indicator-datetime.git
+[submodule "indicator-keyboard"]
+	path = indicator-keyboard
+	url = git@github.com:ubports/indicator-keyboard.git
+[submodule "indicator-network"]
+	path = indicator-network
+	url = git@github.com:ubports/indicator-network.git
+[submodule "indicator-power"]
+	path = indicator-power
+	url = git@github.com:ubports/indicator-power.git
+[submodule "indicator-session"]
+	path = indicator-session
+	url = git@github.com:ubports/indicator-session.git
+[submodule "indicator-sound"]
+	path = indicator-sound
+	url = git@github.com:ubports/indicator-sound.git
+[submodule "libindicator"]
+	path = libindicator
+	url = git@github.com:ubports/libindicator.git
+[submodule "unity-api"]
+	path = unity-api
+	url = git@github.com:ubports/unity-api.git
